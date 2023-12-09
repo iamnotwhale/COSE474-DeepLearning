@@ -1,0 +1,7 @@
+names:
+  0: normal
+  1: GreyMold
+  2: Powdery
+test: /Users/bykwon/Desktop/dl/finalproj//dataset/test/
+train: /Users/bykwon/Desktop/dl/finalproj/dataset/train
+val: /Users/bykwon/Desktop/dl/finalproj//dataset/val/
